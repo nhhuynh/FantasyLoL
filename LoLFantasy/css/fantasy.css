@@ -1,0 +1,18 @@
+.bg-dark{
+    background-color: #5a5a5a!important;
+}
+body{
+    background-color: #bbbbbb;
+    color: #000;
+}
+.opac{
+    height: 200px;
+    background-color: beige;
+}
+.info{
+    min-height: 400px;
+}
+.row{
+    border: solid; 
+    border-width: 1px;
+}
