@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LoLFantasy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/LoLFantasy/static/js/main.33f2cda1.chunk.js",
+    "main.js.map": "/LoLFantasy/static/js/main.33f2cda1.chunk.js.map",
+    "runtime-main.js": "/LoLFantasy/static/js/runtime-main.500e72b3.js",
+    "runtime-main.js.map": "/LoLFantasy/static/js/runtime-main.500e72b3.js.map",
+    "static/css/2.67123b20.chunk.css": "/LoLFantasy/static/css/2.67123b20.chunk.css",
+    "static/js/2.c79ddaab.chunk.js": "/LoLFantasy/static/js/2.c79ddaab.chunk.js",
+    "static/js/2.c79ddaab.chunk.js.map": "/LoLFantasy/static/js/2.c79ddaab.chunk.js.map",
+    "index.html": "/LoLFantasy/index.html",
+    "precache-manifest.c4cb0d6ab00107ab6bf377af8dc47732.js": "/LoLFantasy/precache-manifest.c4cb0d6ab00107ab6bf377af8dc47732.js",
+    "service-worker.js": "/LoLFantasy/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/LoLFantasy/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/LoLFantasy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c79ddaab.chunk.js.LICENSE.txt": "/LoLFantasy/static/js/2.c79ddaab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.500e72b3.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.c79ddaab.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.33f2cda1.chunk.js"
+  ]
+}
